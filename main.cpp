@@ -25,7 +25,7 @@ int main()
     switch (numero) {
         case 0:
             std::cout << "El número es cero" << std::endl;
-            display.write(123);
+            display.write(126);
             break;
         case 1:
             std::cout << "El número es uno" << std::endl;
