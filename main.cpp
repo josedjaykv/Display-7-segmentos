@@ -14,7 +14,6 @@
 using namespace std;
 int main()
 {
-    // Initialise the digital pin LED1 as an output
     BusOut display(D2, D3, D4, D5, D6, D7, D8);
 
     while (true) {
